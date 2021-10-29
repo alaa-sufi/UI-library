@@ -1,2 +1,5 @@
 # UI-library
-![icon](https://mui.com//static/favicon.ico)[UI-library](https://mui.com/)
+[UI-library](https://mui.com/)
+
+## install
+`npm install @mui/material`
